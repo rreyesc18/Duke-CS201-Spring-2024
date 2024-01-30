@@ -2,13 +2,6 @@ import java.io.*;
 import java.util.*;
 import java.net.*;
 
-/**
- * Static methods for reading data files, URLs, and encrypted files and URLs.
- * Also includes a method for computing distance between two points on earth.
- * @author Owen Astrachan
- * This versions new in Fall 2023
- */
-
 public class Person201Utilities {
     public static final double EARTH_RADIUS_KM = 6372.8;
 
