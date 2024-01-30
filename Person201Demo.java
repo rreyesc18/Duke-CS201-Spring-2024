@@ -1,8 +1,3 @@
-/**
- * Demo of Person201 objects for Compsci 201 @ Duke
- * @author Owen Astrachan
- * This versions new in Fall 2023
- */
 public class Person201Demo {
     public static void main(String[] args) {
         Person201 a = new Person201("claire",37.8044,-122.2712,"courons");
