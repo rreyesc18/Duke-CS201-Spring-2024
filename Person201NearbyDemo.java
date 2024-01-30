@@ -1,10 +1,3 @@
-/**
- * @author Owen Astrachan
- * This versions new in Fall 2023
- * Reads a data file and finds all those people within a specified distance
- * of a specified person.
- */
-
 public class Person201NearbyDemo {
     public static void main(String[] args) throws Exception {
         Person201 query = new Person201("Ricardo",46.9994, -122.3921,"harambee");
