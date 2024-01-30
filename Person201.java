@@ -1,11 +1,3 @@
-/**
- * For use in Compsci 201, P0, Duke University
- * @author ola, Owen Astrachan
- * To be modified by students in 201, when you make
- * a modification, add yourself as an author in these
- * comments.
- *
- */
 public class Person201 {
 
     private String myName;      // name of person
